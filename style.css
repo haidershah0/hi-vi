@@ -1,0 +1,150 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.tamplet{
+    max-width: 1350px;
+    margin: 0 auto;
+}
+/* lfwf */
+.lfwf{
+    background: #2e219a;
+}
+.lfwf1{
+    
+    width: 100px;
+    
+}
+/* manu  */
+.main-manu{
+    text-align: center;
+    background: red;
+    padding: 15px;
+    
+}
+.main-manu ul li {
+    display: inline-block;
+    text-decoration: none;
+    border-right: 2px solid white;
+    padding: 2px 2px;
+    font-size: 24px;
+}
+.main-manu li:nth-child(7) {
+    border-right: none;
+    display: inline-block;
+    
+}
+.main-manu li a{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+
+}
+/* bg pictur 1 */
+.pictur-1 {
+    padding: 100px 0;
+    background: url('https://i.ibb.co/CVm6rXM/pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustra.jpg');
+    background-repeat: no-repeat;
+    background-size: 1350px 400px;
+    color: white;
+    margin-top: -16px;
+}
+.pictur-1 .pictur-btn {
+    padding: 10px 30px;
+    color: white;
+    background: green;
+    text-decoration: none;
+    font-size: 20px;
+}
+.pictur-1 .pictur-btn:hover{
+    background-color: rgb(255, 255, 255);
+    color: green;
+    transition: .3s;
+}
+/* bg pictur 2 */
+.pictur-2 {
+    padding: 100px 0;
+    background: url('https://i.ibb.co/n7Mkp9j/pngtree-modern-double-color-futuristic-neon-background-image-351866.jpg');
+    background-repeat: no-repeat;
+    background-size: 1350px 400px;
+    color: white;
+    margin-top: -16px;
+}
+.pictur-2 h1{
+    background: #008000;
+}
+.pictur-2 p{
+    background: #ffff00;
+    color: black;
+    display: inline-block;
+}
+.pictur-2 .pictur-btn2 {
+    padding: 10px 30px;
+    color: white;
+    background: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+.pictur-2 .pictur-btn2:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    transition: .3s;
+}
+/* our teem 1st  */
+.our-teem {
+    background-color: #4ab75c;
+    margin-top: -30px;
+}
+.our-teem1 {
+    margin: 70px 165px;
+    display: inline-block;
+}
+.our-teem2{
+    display: inline-block;
+}
+.our-teem2 img {
+    width: 130px;
+    height: 150px;
+    margin-top: -135px;
+    margin-right: 195px;
+}
+.our-teem3{
+    display: inline-block;
+}
+/* our teem 2nd  */
+.our-teem4 {
+    margin: 70px 165px;
+    display: inline-block;
+}
+.our-teem5{
+    display: inline-block;
+}
+.our-teem6{
+    display: inline-block;
+}
+.our-teem6 img {
+    width: 130px;
+    height: 150px;
+    margin-top: -130px;
+    margin-left: 20px;
+}
+/* footer section  */
+.footer-menu{
+    padding: 15px;
+    background: #2c1a8e;
+}
+.footer-menu li {
+    display: inline-block;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 10px 15px;
+    font-size: 25px;
+    border-radius: 15px 15px 15px 15px;
+}
+.footer-menu li a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    
+}
